@@ -1,0 +1,14 @@
+#lockBody{
+  position: fixed;
+  z-index: 999999999999999999999999999;
+  background: #e5eff1;
+  width: 100%;
+  min-height: 100%;
+  text-align: center;
+  top: 0;
+  left: 0;
+}
+
+#lockBody img{
+  max-width: 100%;
+}
